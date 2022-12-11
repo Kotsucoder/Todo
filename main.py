@@ -5,8 +5,8 @@ def main():
 
     while True:
         todo = input(USER_PROMPT)
+        print(todo.capitalize())
         todos.append(todo)
-        print(todos)
 
 if __name__ == '__main__':
     main()
