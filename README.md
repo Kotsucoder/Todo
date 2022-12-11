@@ -5,6 +5,5 @@ Hey there! You have reached my GitHub project related to the Python course I am 
 This course assumes you are an absolute beginner in the Python Programming Language.  
 I do have some experience, but I'm taking this course to relearn what I may have forgotten.  
 Watch my programming videos on YouTube: [@KotsuCoder](https://www.youtube.com/@KotsuCoder)  
-[Website](https://www.kotsu.red)
 
 I am building a Todo list as part of this course. You can see my day-to-day progress by viewing this repo's branches, including programming exercises for each day.
