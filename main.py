@@ -1,12 +1,20 @@
 def main():
-    USER_PROMPT = "Enter a todo: "
-
     todos = []
 
     while True:
-        todo = input(USER_PROMPT)
-        print(todo.capitalize())
-        todos.append(todo)
+        user_action = input("Type add, show, or exit: ").strip().lower()
+
+        match user_action:
+            case 'add':
+                todo = input("Enter a todo: ")
+                todos.append(todo)
+            case 'show':
+                for item in todos:
+                    print(item)
+            case 'exit':
+                break
+
+    print("Bye!")
 
 if __name__ == '__main__':
     main()
