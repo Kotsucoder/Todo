@@ -19,21 +19,9 @@ while True:
             file = open('todos.txt', 'r')
             todos = file.readlines()
             file.close()
-
-            #----------------------------------
-            # Method One:
-            # new_todos = []
-
-            # for item in todos:
-            #     new_item = item.strip('\n')
-            #     new_todos.append(new_item)
-            #----------------------------------
-            # Method Two:
-            # new_todos = [item.strip('\n') for item in todos]
-            #----------------------------------
             
             for index, item in enumerate(todos):
-                item = item.strip('\n') # Implimented Method
+                item = item.strip('\n')
                 row = f'{index + 1}. {item}'
                 print(row)
         case 'edit':
