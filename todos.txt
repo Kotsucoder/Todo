@@ -1,3 +1,5 @@
 Learn Python
 Learn Java
 Learn HTML5
+Build Chai Game
+Rick Roll Twitter
