@@ -1,5 +1,6 @@
-Learn Python
+Master Python
 Learn Java
-Learn HTML5
-Build Chai Game
+Master HTML5
+Learn Godot
 Rick Roll Twitter
+Build Chai
