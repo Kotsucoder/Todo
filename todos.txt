@@ -2,5 +2,4 @@ Master Python
 Learn Java
 Master HTML5
 Learn Godot
-Rick Roll Twitter
 Build Chai
