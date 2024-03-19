@@ -1,4 +1,3 @@
-Master Python
 Learn Java
 Master HTML5
 Learn Godot
