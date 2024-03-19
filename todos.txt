@@ -3,3 +3,5 @@ Learn Java
 Master HTML5
 Learn Godot
 Build Chai
+Learn Calculus
+Volunteer with Lions
